@@ -1,0 +1,72 @@
+{
+  "assetsByChunkName": {
+    "path---menu": [
+      "path---menu-97b82714c656ce7cdc35.js",
+      "path---menu-97b82714c656ce7cdc35.js.map"
+    ],
+    "component---src-pages-gallery-js": [
+      "component---src-pages-gallery-js-ba590708a8ff3b4dc61b.js",
+      "component---src-pages-gallery-js-ba590708a8ff3b4dc61b.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-fb2e2f9f2fb5f07c4f69.js",
+      "component---src-pages-index-js-fb2e2f9f2fb5f07c4f69.js.map"
+    ],
+    "path---events": [
+      "path---events-0280b0cdf7a0057bdde3.js",
+      "path---events-0280b0cdf7a0057bdde3.js.map"
+    ],
+    "path---contacts": [
+      "path---contacts-a0e39f21c11f6a62c5ab.js",
+      "path---contacts-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-pages-menu-js": [
+      "component---src-pages-menu-js-b87b93ee8843dcbd4b55.js",
+      "component---src-pages-menu-js-b87b93ee8843dcbd4b55.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-620613e1fd67dace8c07.js",
+      "component---src-layouts-index-js-620613e1fd67dace8c07.js.map"
+    ],
+    "path---gallery": [
+      "path---gallery-876b15e4c7254c29a3ef.js",
+      "path---gallery-876b15e4c7254c29a3ef.js.map"
+    ],
+    "component---src-pages-contacts-js": [
+      "component---src-pages-contacts-js-1ad2138222a274c2e92b.js",
+      "component---src-pages-contacts-js-1ad2138222a274c2e92b.js.map"
+    ],
+    "path---index": [
+      "path---index-caa8493c67bda75340fe.js",
+      "path---index-caa8493c67bda75340fe.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-d61aeb2d18751dffae62.js",
+      "commons-d61aeb2d18751dffae62.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-e1e685ebc6469dd5adab.js",
+      "app-e1e685ebc6469dd5adab.js.map"
+    ],
+    "component---src-pages-events-js": [
+      "component---src-pages-events-js-016886f66b043f42117e.js",
+      "component---src-pages-events-js-016886f66b043f42117e.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
