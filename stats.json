@@ -1,20 +1,48 @@
 {
   "assetsByChunkName": {
-    "path---menu": [
-      "path---menu-2fde2e8f1ad7763d9eb0.js",
-      "path---menu-2fde2e8f1ad7763d9eb0.js.map"
+    "path---menu-17-11-6-pork-ribs": [
+      "path---menu-17-11-6-pork-ribs-6007543857e0769cbb94.js",
+      "path---menu-17-11-6-pork-ribs-6007543857e0769cbb94.js.map"
     ],
-    "component---src-pages-gallery-js": [
-      "component---src-pages-gallery-js-ba590708a8ff3b4dc61b.js",
-      "component---src-pages-gallery-js-ba590708a8ff3b4dc61b.js.map"
+    "path---menu": [
+      "path---menu-6fb08333bb84383b22f5.js",
+      "path---menu-6fb08333bb84383b22f5.js.map"
+    ],
+    "component---src-templates-menu-index-js": [
+      "component---src-templates-menu-index-js-1354d5620d13005f8412.js",
+      "component---src-templates-menu-index-js-1354d5620d13005f8412.js.map"
+    ],
+    "path---menu-17-11-6-breakfast": [
+      "path---menu-17-11-6-breakfast-1970268e3dac849ecfbc.js",
+      "path---menu-17-11-6-breakfast-1970268e3dac849ecfbc.js.map"
+    ],
+    "path---menu-17-11-6-sandwich-with-ham": [
+      "path---menu-17-11-6-sandwich-with-ham-6ff6b5490733f6e741d8.js",
+      "path---menu-17-11-6-sandwich-with-ham-6ff6b5490733f6e741d8.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-82ef6dc520165c23a23b.js",
-      "component---src-pages-index-js-82ef6dc520165c23a23b.js.map"
+      "component---src-pages-index-js-bde736d2da7fd2f94fac.js",
+      "component---src-pages-index-js-bde736d2da7fd2f94fac.js.map"
+    ],
+    "path---menu-17-11-6-congry-or-moros": [
+      "path---menu-17-11-6-congry-or-moros-919a60f8b3a171110a54.js",
+      "path---menu-17-11-6-congry-or-moros-919a60f8b3a171110a54.js.map"
+    ],
+    "path---events-17-11-6-night-of-latina-dancing": [
+      "path---events-17-11-6-night-of-latina-dancing-ba6ffc0380c556b78bcc.js",
+      "path---events-17-11-6-night-of-latina-dancing-ba6ffc0380c556b78bcc.js.map"
     ],
     "path---events": [
-      "path---events-906dd0b6d1a5502db055.js",
-      "path---events-906dd0b6d1a5502db055.js.map"
+      "path---events-1dd54b0f9c6650e7e142.js",
+      "path---events-1dd54b0f9c6650e7e142.js.map"
+    ],
+    "path---events-17-11-6-first-saturday-of-the-summer": [
+      "path---events-17-11-6-first-saturday-of-the-summer-1470b25a31563799f7a3.js",
+      "path---events-17-11-6-first-saturday-of-the-summer-1470b25a31563799f7a3.js.map"
+    ],
+    "path---events-17-11-6-st-valentines-day": [
+      "path---events-17-11-6-st-valentines-day-6cc95b3088927dffae1e.js",
+      "path---events-17-11-6-st-valentines-day-6cc95b3088927dffae1e.js.map"
     ],
     "path---contacts": [
       "path---contacts-1db04e5021b40904aca6.js",
@@ -24,61 +52,169 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "component---src-pages-menu-js": [
-      "component---src-pages-menu-js-b87b93ee8843dcbd4b55.js",
-      "component---src-pages-menu-js-b87b93ee8843dcbd4b55.js.map"
+    "component---src-templates-events-index-js": [
+      "component---src-templates-events-index-js-6e48fdda434934c9686b.js",
+      "component---src-templates-events-index-js-6e48fdda434934c9686b.js.map"
     ],
-    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
-      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
-      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    "path---gallery-17-11-6-dia-de-la-independencia": [
+      "path---gallery-17-11-6-dia-de-la-independencia-9fd8b32fbeeb37cf69a9.js",
+      "path---gallery-17-11-6-dia-de-la-independencia-9fd8b32fbeeb37cf69a9.js.map"
+    ],
+    "path---menu-17-11-6-pumpkin-soup": [
+      "path---menu-17-11-6-pumpkin-soup-c64b219131916aa7597b.js",
+      "path---menu-17-11-6-pumpkin-soup-c64b219131916aa7597b.js.map"
+    ],
+    "path---menu-17-11-6-beet-n-berry-smoothie": [
+      "path---menu-17-11-6-beet-n-berry-smoothie-9b2657577b53035947ab.js",
+      "path---menu-17-11-6-beet-n-berry-smoothie-9b2657577b53035947ab.js.map"
+    ],
+    "component---src-templates-gallery-index-js": [
+      "component---src-templates-gallery-index-js-53427087dadd1089c83e.js",
+      "component---src-templates-gallery-index-js-53427087dadd1089c83e.js.map"
+    ],
+    "path---events-17-11-6-night-of-the-cuban-rum": [
+      "path---events-17-11-6-night-of-the-cuban-rum-df48c97064010922494d.js",
+      "path---events-17-11-6-night-of-the-cuban-rum-df48c97064010922494d.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-510c3250706e4515b8aa.js",
-      "component---src-layouts-index-js-510c3250706e4515b8aa.js.map"
+      "component---src-layouts-index-js-2079e212abdc8b95fc35.js",
+      "component---src-layouts-index-js-2079e212abdc8b95fc35.js.map"
+    ],
+    "path---menu-17-11-6-cuban-meat-stew-la-caldosa-la-caldosa": [
+      "path---menu-17-11-6-cuban-meat-stew-la-caldosa-la-caldosa-62fecaf6fbc7570566d2.js",
+      "path---menu-17-11-6-cuban-meat-stew-la-caldosa-la-caldosa-62fecaf6fbc7570566d2.js.map"
+    ],
+    "path---events-17-11-6-dia-de-los-trabajadores": [
+      "path---events-17-11-6-dia-de-los-trabajadores-efbd287ac0d99b3b1573.js",
+      "path---events-17-11-6-dia-de-los-trabajadores-efbd287ac0d99b3b1573.js.map"
     ],
     "path---gallery": [
-      "path---gallery-769f6ee20c57d516e679.js",
-      "path---gallery-769f6ee20c57d516e679.js.map"
+      "path---gallery-21071f4c1c11248e6675.js",
+      "path---gallery-21071f4c1c11248e6675.js.map"
+    ],
+    "component---src-templates-events-single-js": [
+      "component---src-templates-events-single-js-42951e82e5c64425e54b.js",
+      "component---src-templates-events-single-js-42951e82e5c64425e54b.js.map"
     ],
     "component---src-pages-contacts-js": [
-      "component---src-pages-contacts-js-1ad2138222a274c2e92b.js",
-      "component---src-pages-contacts-js-1ad2138222a274c2e92b.js.map"
+      "component---src-pages-contacts-js-8fa59b656cb99728872f.js",
+      "component---src-pages-contacts-js-8fa59b656cb99728872f.js.map"
+    ],
+    "path---events-17-11-6-asalto-al-cuartel-moncada-ili-dia-de-la-rebeldia-nacional": [
+      "path---events-17-11-6-asalto-al-cuartel-moncada-ili-dia-de-la-rebeldia-nacional-3f05db402bd3e7957249.js",
+      "path---events-17-11-6-asalto-al-cuartel-moncada-ili-dia-de-la-rebeldia-nacional-3f05db402bd3e7957249.js.map"
+    ],
+    "path---events-17-11-6-saint-patricks-day": [
+      "path---events-17-11-6-saint-patricks-day-d65f6bda9d934157fb6e.js",
+      "path---events-17-11-6-saint-patricks-day-d65f6bda9d934157fb6e.js.map"
+    ],
+    "path---menu-17-11-6-shrimps-with-vegetables": [
+      "path---menu-17-11-6-shrimps-with-vegetables-ca5a0b5dae7b0a5febee.js",
+      "path---menu-17-11-6-shrimps-with-vegetables-ca5a0b5dae7b0a5febee.js.map"
     ],
     "path---index": [
-      "path---index-803208a71efe88424799.js",
-      "path---index-803208a71efe88424799.js.map"
+      "path---index-024218be751d05145718.js",
+      "path---index-024218be751d05145718.js.map"
+    ],
+    "component---src-templates-gallery-single-js": [
+      "component---src-templates-gallery-single-js-214e39835a24b8fd936e.js",
+      "component---src-templates-gallery-single-js-214e39835a24b8fd936e.js.map"
+    ],
+    "path---gallery-17-11-6-halloween": [
+      "path---gallery-17-11-6-halloween-b59709998406b99603b8.js",
+      "path---gallery-17-11-6-halloween-b59709998406b99603b8.js.map"
+    ],
+    "path---gallery-17-11-6-new-year-2016": [
+      "path---gallery-17-11-6-new-year-2016-716b69b7bb9d5f898379.js",
+      "path---gallery-17-11-6-new-year-2016-716b69b7bb9d5f898379.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-388b45964532f98c9766.js",
+      "commons-f38ed64136f3894e45cb.js",
       "build-js-styles.css",
-      "commons-388b45964532f98c9766.js.map",
+      "commons-f38ed64136f3894e45cb.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
       "path---404-html-1db04e5021b40904aca6.js",
       "path---404-html-1db04e5021b40904aca6.js.map"
     ],
-    "path---offline-plugin-app-shell-fallback": [
-      "path---offline-plugin-app-shell-fallback-1db04e5021b40904aca6.js",
-      "path---offline-plugin-app-shell-fallback-1db04e5021b40904aca6.js.map"
+    "path---events-17-11-6-wednesdays-dancing": [
+      "path---events-17-11-6-wednesdays-dancing-383b83c713e5100c5637.js",
+      "path---events-17-11-6-wednesdays-dancing-383b83c713e5100c5637.js.map"
+    ],
+    "path---events-17-11-6-live-music-night": [
+      "path---events-17-11-6-live-music-night-425ad637e0ca4cdf5547.js",
+      "path---events-17-11-6-live-music-night-425ad637e0ca4cdf5547.js.map"
+    ],
+    "path---events-17-11-6-christmas": [
+      "path---events-17-11-6-christmas-8341a0d37150f15b1f2f.js",
+      "path---events-17-11-6-christmas-8341a0d37150f15b1f2f.js.map"
+    ],
+    "path---events-17-11-6-new-year": [
+      "path---events-17-11-6-new-year-f4de57a52a81f767df47.js",
+      "path---events-17-11-6-new-year-f4de57a52a81f767df47.js.map"
+    ],
+    "path---events-17-11-6-8-of-martch": [
+      "path---events-17-11-6-8-of-martch-ef8ea984226ca301409b.js",
+      "path---events-17-11-6-8-of-martch-ef8ea984226ca301409b.js.map"
+    ],
+    "path---menu-17-11-6-burito": [
+      "path---menu-17-11-6-burito-13a85a23f28aaa91499a.js",
+      "path---menu-17-11-6-burito-13a85a23f28aaa91499a.js.map"
+    ],
+    "path---gallery-17-11-6-christmas-2016": [
+      "path---gallery-17-11-6-christmas-2016-1213161145b0f6cc2714.js",
+      "path---gallery-17-11-6-christmas-2016-1213161145b0f6cc2714.js.map"
+    ],
+    "path---events-17-11-6-cuban-dancing": [
+      "path---events-17-11-6-cuban-dancing-7d22e7065fc52969f826.js",
+      "path---events-17-11-6-cuban-dancing-7d22e7065fc52969f826.js.map"
+    ],
+    "path---events-17-11-6-salsa-night": [
+      "path---events-17-11-6-salsa-night-e1995f39a9e2665e4d58.js",
+      "path---events-17-11-6-salsa-night-e1995f39a9e2665e4d58.js.map"
     ],
     "app": [
-      "app-07bdfb5b8d470eddfbd3.js",
+      "app-8abf87d3241858816d61.js",
       "build-js-styles.css",
-      "app-07bdfb5b8d470eddfbd3.js.map",
+      "app-8abf87d3241858816d61.js.map",
       "build-js-styles.css.map"
     ],
-    "component---src-pages-events-js": [
-      "component---src-pages-events-js-016886f66b043f42117e.js",
-      "component---src-pages-events-js-016886f66b043f42117e.js.map"
+    "component---src-templates-menu-single-js": [
+      "component---src-templates-menu-single-js-776f822ee48681532afa.js",
+      "component---src-templates-menu-single-js-776f822ee48681532afa.js.map"
+    ],
+    "path---events-17-11-6-dia-de-la-independencia": [
+      "path---events-17-11-6-dia-de-la-independencia-2b58eb90702058203dff.js",
+      "path---events-17-11-6-dia-de-la-independencia-2b58eb90702058203dff.js.map"
+    ],
+    "path---menu-17-11-6-burger": [
+      "path---menu-17-11-6-burger-386a550b0369b47fe32b.js",
+      "path---menu-17-11-6-burger-386a550b0369b47fe32b.js.map"
+    ],
+    "path---menu-17-11-6-strawberry-daiquiri": [
+      "path---menu-17-11-6-strawberry-daiquiri-5ca718097e2ef656a680.js",
+      "path---menu-17-11-6-strawberry-daiquiri-5ca718097e2ef656a680.js.map"
+    ],
+    "path---menu-17-11-6-fried-pineapples": [
+      "path---menu-17-11-6-fried-pineapples-5a3b4f915e6197b165aa.js",
+      "path---menu-17-11-6-fried-pineapples-5a3b4f915e6197b165aa.js.map"
     ],
     "path---404": [
       "path---404-1db04e5021b40904aca6.js",
       "path---404-1db04e5021b40904aca6.js.map"
+    ],
+    "path---menu-17-11-6-shrimp": [
+      "path---menu-17-11-6-shrimp-172bbafb22682903062d.js",
+      "path---menu-17-11-6-shrimp-172bbafb22682903062d.js.map"
+    ],
+    "path---menu-17-11-6-ham-la-cuba": [
+      "path---menu-17-11-6-ham-la-cuba-9756a642ae204f56d3fe.js",
+      "path---menu-17-11-6-ham-la-cuba-9756a642ae204f56d3fe.js.map"
     ]
   }
 }
