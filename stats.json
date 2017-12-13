@@ -1,20 +1,40 @@
 {
   "assetsByChunkName": {
+    "path---events-18-01-25-salsa-night": [
+      "path---events-18-01-25-salsa-night-d50870ac9998b556582c.js",
+      "path---events-18-01-25-salsa-night-d50870ac9998b556582c.js.map"
+    ],
+    "path---events-18-04-19-cuban-dancing": [
+      "path---events-18-04-19-cuban-dancing-2a063d8cd85ec5217a3b.js",
+      "path---events-18-04-19-cuban-dancing-2a063d8cd85ec5217a3b.js.map"
+    ],
+    "path---events-17-12-31-new-year": [
+      "path---events-17-12-31-new-year-3beca3121febf2d3e592.js",
+      "path---events-17-12-31-new-year-3beca3121febf2d3e592.js.map"
+    ],
     "path---menu": [
-      "path---menu-16f9653be231d36b5934.js",
-      "path---menu-16f9653be231d36b5934.js.map"
+      "path---menu-6fb20d5d75b9af05aa63.js",
+      "path---menu-6fb20d5d75b9af05aa63.js.map"
+    ],
+    "path---events-18-05-24-night-of-the-cuban-rum": [
+      "path---events-18-05-24-night-of-the-cuban-rum-4ff3bb4f7239958cbefb.js",
+      "path---events-18-05-24-night-of-the-cuban-rum-4ff3bb4f7239958cbefb.js.map"
     ],
     "component---src-templates-menu-index-js": [
       "component---src-templates-menu-index-js-4a41b3423aa8a8a2dd93.js",
       "component---src-templates-menu-index-js-4a41b3423aa8a8a2dd93.js.map"
     ],
-    "path---events": [
-      "path---events-1353b576da9337056040.js",
-      "path---events-1353b576da9337056040.js.map"
+    "path---events-18-01-07-christmas": [
+      "path---events-18-01-07-christmas-f026390aaaba59cc40ec.js",
+      "path---events-18-01-07-christmas-f026390aaaba59cc40ec.js.map"
     ],
-    "path---events-17-12-3-cuban-dancing": [
-      "path---events-17-12-3-cuban-dancing-d78c21685314c2c5a539.js",
-      "path---events-17-12-3-cuban-dancing-d78c21685314c2c5a539.js.map"
+    "path---menu-sandwich-with-ham": [
+      "path---menu-sandwich-with-ham-8a09dfda1fdd9cb73718.js",
+      "path---menu-sandwich-with-ham-8a09dfda1fdd9cb73718.js.map"
+    ],
+    "path---events": [
+      "path---events-3c2f04ca0eec7fb4759d.js",
+      "path---events-3c2f04ca0eec7fb4759d.js.map"
     ],
     "path---contacts": [
       "path---contacts-1db04e5021b40904aca6.js",
@@ -24,53 +44,41 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---events-18-02-14-st-valentines-day": [
+      "path---events-18-02-14-st-valentines-day-84bdb294f56438a8cda0.js",
+      "path---events-18-02-14-st-valentines-day-84bdb294f56438a8cda0.js.map"
+    ],
     "component---src-templates-events-index-js": [
       "component---src-templates-events-index-js-437845d5a06ed34e9265.js",
       "component---src-templates-events-index-js-437845d5a06ed34e9265.js.map"
-    ],
-    "path---menu-17-12-3-pork-ribs": [
-      "path---menu-17-12-3-pork-ribs-56eb83fe3112edeeb8b2.js",
-      "path---menu-17-12-3-pork-ribs-56eb83fe3112edeeb8b2.js.map"
-    ],
-    "path---menu-17-12-3-burger": [
-      "path---menu-17-12-3-burger-7441be15daab5b91e94f.js",
-      "path---menu-17-12-3-burger-7441be15daab5b91e94f.js.map"
-    ],
-    "path---menu-17-12-3-breakfast": [
-      "path---menu-17-12-3-breakfast-60663a3f3c69e01b3f4d.js",
-      "path---menu-17-12-3-breakfast-60663a3f3c69e01b3f4d.js.map"
-    ],
-    "path---menu-17-12-3-burito": [
-      "path---menu-17-12-3-burito-85e9994fbdbf0f9513f1.js",
-      "path---menu-17-12-3-burito-85e9994fbdbf0f9513f1.js.map"
-    ],
-    "path---menu-17-12-3-cuban-meat-stew-la-caldosa-la-caldosa": [
-      "path---menu-17-12-3-cuban-meat-stew-la-caldosa-la-caldosa-e9a2e76a6e2c1401ff05.js",
-      "path---menu-17-12-3-cuban-meat-stew-la-caldosa-la-caldosa-e9a2e76a6e2c1401ff05.js.map"
-    ],
-    "path---events-17-12-3-dia-de-la-independencia": [
-      "path---events-17-12-3-dia-de-la-independencia-98fd2de1b23e00222165.js",
-      "path---events-17-12-3-dia-de-la-independencia-98fd2de1b23e00222165.js.map"
     ],
     "component---src-templates-index-js": [
       "component---src-templates-index-js-5c974d917d2b3595547a.js",
       "component---src-templates-index-js-5c974d917d2b3595547a.js.map"
     ],
-    "path---events-17-12-3-wednesdays-dancing": [
-      "path---events-17-12-3-wednesdays-dancing-2eacfd263bfda7dbbe4e.js",
-      "path---events-17-12-3-wednesdays-dancing-2eacfd263bfda7dbbe4e.js.map"
+    "path---events-18-07-07-night-of-latina-dancing": [
+      "path---events-18-07-07-night-of-latina-dancing-9f7339a44d01214cf1d1.js",
+      "path---events-18-07-07-night-of-latina-dancing-9f7339a44d01214cf1d1.js.map"
+    ],
+    "path---menu-pumpkin-soup": [
+      "path---menu-pumpkin-soup-3f23ecda01568ea4f42b.js",
+      "path---menu-pumpkin-soup-3f23ecda01568ea4f42b.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-c3b95fddbcf73e9b75f0.js",
       "component---src-layouts-index-js-c3b95fddbcf73e9b75f0.js.map"
     ],
-    "path---menu-17-12-3-fried-pineapples": [
-      "path---menu-17-12-3-fried-pineapples-3c8cb408f83df19f87b8.js",
-      "path---menu-17-12-3-fried-pineapples-3c8cb408f83df19f87b8.js.map"
+    "path---menu-breakfast": [
+      "path---menu-breakfast-2eaa717d0cc24aba7ec8.js",
+      "path---menu-breakfast-2eaa717d0cc24aba7ec8.js.map"
     ],
-    "path---events-17-12-3-new-year": [
-      "path---events-17-12-3-new-year-3dbc31b993b7cd160d13.js",
-      "path---events-17-12-3-new-year-3dbc31b993b7cd160d13.js.map"
+    "path---events-18-05-01-dia-de-los-trabajadores": [
+      "path---events-18-05-01-dia-de-los-trabajadores-af79c89701450efeb0fb.js",
+      "path---events-18-05-01-dia-de-los-trabajadores-af79c89701450efeb0fb.js.map"
+    ],
+    "path---menu-cuban-meat-stew-la-caldosa-la-caldosa": [
+      "path---menu-cuban-meat-stew-la-caldosa-la-caldosa-676e10a0160d46e9c3dd.js",
+      "path---menu-cuban-meat-stew-la-caldosa-la-caldosa-676e10a0160d46e9c3dd.js.map"
     ],
     "component---src-templates-events-single-js": [
       "component---src-templates-events-single-js-6a90283a84a7746f0115.js",
@@ -80,29 +88,49 @@
       "component---src-pages-contacts-js-c0ca3135a2fe17f35c72.js",
       "component---src-pages-contacts-js-c0ca3135a2fe17f35c72.js.map"
     ],
-    "path---events-17-12-3-christmas": [
-      "path---events-17-12-3-christmas-49acdaa80babd8d74937.js",
-      "path---events-17-12-3-christmas-49acdaa80babd8d74937.js.map"
+    "path---menu-shrimps-with-vegetables": [
+      "path---menu-shrimps-with-vegetables-58c083ee46e9f82f0252.js",
+      "path---menu-shrimps-with-vegetables-58c083ee46e9f82f0252.js.map"
+    ],
+    "path---events-18-04-19-live-music-night": [
+      "path---events-18-04-19-live-music-night-3d5590f25b5a119e7638.js",
+      "path---events-18-04-19-live-music-night-3d5590f25b5a119e7638.js.map"
+    ],
+    "path---menu-burito": [
+      "path---menu-burito-b4288ca6713a665b724a.js",
+      "path---menu-burito-b4288ca6713a665b724a.js.map"
+    ],
+    "path---menu-beet-n-berry-smoothie": [
+      "path---menu-beet-n-berry-smoothie-b71bea4a6ff25debd9d5.js",
+      "path---menu-beet-n-berry-smoothie-b71bea4a6ff25debd9d5.js.map"
     ],
     "path---index": [
-      "path---index-5ab73ff2a9c147df9b09.js",
-      "path---index-5ab73ff2a9c147df9b09.js.map"
+      "path---index-ee7eb45d5f72a847ef80.js",
+      "path---index-ee7eb45d5f72a847ef80.js.map"
     ],
-    "path---menu-17-12-3-pumpkin-soup": [
-      "path---menu-17-12-3-pumpkin-soup-764834b37aae14213a45.js",
-      "path---menu-17-12-3-pumpkin-soup-764834b37aae14213a45.js.map"
+    "path---menu-ham-la-cuba": [
+      "path---menu-ham-la-cuba-3dbb366f5ff174a02cb1.js",
+      "path---menu-ham-la-cuba-3dbb366f5ff174a02cb1.js.map"
     ],
-    "path---events-17-12-3-salsa-night": [
-      "path---events-17-12-3-salsa-night-ca0157f3b2ddf37fc2dd.js",
-      "path---events-17-12-3-salsa-night-ca0157f3b2ddf37fc2dd.js.map"
+    "path---events-18-06-02-first-saturday-of-the-summer": [
+      "path---events-18-06-02-first-saturday-of-the-summer-a51aa321e3cda31c501a.js",
+      "path---events-18-06-02-first-saturday-of-the-summer-a51aa321e3cda31c501a.js.map"
     ],
-    "path---menu-17-12-3-ham-la-cuba": [
-      "path---menu-17-12-3-ham-la-cuba-6230af0bd3521ab91afe.js",
-      "path---menu-17-12-3-ham-la-cuba-6230af0bd3521ab91afe.js.map"
+    "path---menu-congry-or-moros": [
+      "path---menu-congry-or-moros-33e0b818562cee7b862f.js",
+      "path---menu-congry-or-moros-33e0b818562cee7b862f.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "path---events-18-07-26-asalto-al-cuartel-moncada-ili-dia-de-la-rebeldia-nacional": [
+      "path---events-18-07-26-asalto-al-cuartel-moncada-ili-dia-de-la-rebeldia-nacional-091d279f49705e29509a.js",
+      "path---events-18-07-26-asalto-al-cuartel-moncada-ili-dia-de-la-rebeldia-nacional-091d279f49705e29509a.js.map"
+    ],
+    "path---events-18-02-13-wednesdays-dancing": [
+      "path---events-18-02-13-wednesdays-dancing-e85ce0c0d4439953d56f.js",
+      "path---events-18-02-13-wednesdays-dancing-e85ce0c0d4439953d56f.js.map"
     ],
     "commons": [
       "commons-1c76e1b47192014b2ca9.js",
@@ -110,83 +138,51 @@
       "commons-1c76e1b47192014b2ca9.js.map",
       "build-js-styles.css.map"
     ],
-    "path---events-17-12-3-8-of-martch": [
-      "path---events-17-12-3-8-of-martch-451d7e2e94313f9893f5.js",
-      "path---events-17-12-3-8-of-martch-451d7e2e94313f9893f5.js.map"
-    ],
-    "path---events-17-12-3-live-music-night": [
-      "path---events-17-12-3-live-music-night-eb77a02d983ab951f589.js",
-      "path---events-17-12-3-live-music-night-eb77a02d983ab951f589.js.map"
-    ],
     "path---404-html": [
       "path---404-html-1db04e5021b40904aca6.js",
       "path---404-html-1db04e5021b40904aca6.js.map"
     ],
-    "path---events-17-12-3-st-valentines-day": [
-      "path---events-17-12-3-st-valentines-day-8578beef723d5c9ead5d.js",
-      "path---events-17-12-3-st-valentines-day-8578beef723d5c9ead5d.js.map"
+    "path---menu-fried-pineapples": [
+      "path---menu-fried-pineapples-66409b57ea18b2820cdc.js",
+      "path---menu-fried-pineapples-66409b57ea18b2820cdc.js.map"
     ],
-    "path---menu-17-12-3-shrimp": [
-      "path---menu-17-12-3-shrimp-e483fb363f44488d529b.js",
-      "path---menu-17-12-3-shrimp-e483fb363f44488d529b.js.map"
+    "path---events-18-10-10-dia-de-la-independencia": [
+      "path---events-18-10-10-dia-de-la-independencia-6ead578c0e8801acd574.js",
+      "path---events-18-10-10-dia-de-la-independencia-6ead578c0e8801acd574.js.map"
     ],
-    "path---events-17-12-3-first-saturday-of-the-summer": [
-      "path---events-17-12-3-first-saturday-of-the-summer-b90457b9cc9315daefc8.js",
-      "path---events-17-12-3-first-saturday-of-the-summer-b90457b9cc9315daefc8.js.map"
+    "path---events-18-03-08-8-of-martch": [
+      "path---events-18-03-08-8-of-martch-416f2f4fa01d0a6dbffb.js",
+      "path---events-18-03-08-8-of-martch-416f2f4fa01d0a6dbffb.js.map"
     ],
-    "path---events-17-12-3-asalto-al-cuartel-moncada-ili-dia-de-la-rebeldia-nacional": [
-      "path---events-17-12-3-asalto-al-cuartel-moncada-ili-dia-de-la-rebeldia-nacional-fc8c692693646507f31a.js",
-      "path---events-17-12-3-asalto-al-cuartel-moncada-ili-dia-de-la-rebeldia-nacional-fc8c692693646507f31a.js.map"
+    "path---menu-pork-ribs": [
+      "path---menu-pork-ribs-f688d4d35d4636b889d8.js",
+      "path---menu-pork-ribs-f688d4d35d4636b889d8.js.map"
     ],
-    "path---menu-17-12-3-sandwich-with-ham": [
-      "path---menu-17-12-3-sandwich-with-ham-e91b3c4596aebf482f70.js",
-      "path---menu-17-12-3-sandwich-with-ham-e91b3c4596aebf482f70.js.map"
-    ],
-    "path---events-17-12-3-saint-patricks-day": [
-      "path---events-17-12-3-saint-patricks-day-22a9b3a49bf31717f8a7.js",
-      "path---events-17-12-3-saint-patricks-day-22a9b3a49bf31717f8a7.js.map"
-    ],
-    "path---events-17-12-3-dia-de-los-trabajadores": [
-      "path---events-17-12-3-dia-de-los-trabajadores-eeee55d870d6d3d3b99c.js",
-      "path---events-17-12-3-dia-de-los-trabajadores-eeee55d870d6d3d3b99c.js.map"
-    ],
-    "path---menu-17-12-3-congry-or-moros": [
-      "path---menu-17-12-3-congry-or-moros-4e4199317808dd3c19d3.js",
-      "path---menu-17-12-3-congry-or-moros-4e4199317808dd3c19d3.js.map"
-    ],
-    "path---menu-17-12-3-beet-n-berry-smoothie": [
-      "path---menu-17-12-3-beet-n-berry-smoothie-3ab0f3fe0a5d11eafebb.js",
-      "path---menu-17-12-3-beet-n-berry-smoothie-3ab0f3fe0a5d11eafebb.js.map"
-    ],
-    "path---events-17-12-3-night-of-the-cuban-rum": [
-      "path---events-17-12-3-night-of-the-cuban-rum-053c6d427a645073c8dc.js",
-      "path---events-17-12-3-night-of-the-cuban-rum-053c6d427a645073c8dc.js.map"
+    "path---menu-burger": [
+      "path---menu-burger-5dec6c64642af7235e8d.js",
+      "path---menu-burger-5dec6c64642af7235e8d.js.map"
     ],
     "app": [
-      "app-6b18cb5437b7ab132b2b.js",
+      "app-1db9c79827bf49b25ac7.js",
       "build-js-styles.css",
-      "app-6b18cb5437b7ab132b2b.js.map",
+      "app-1db9c79827bf49b25ac7.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-menu-single-js": [
       "component---src-templates-menu-single-js-feb875c9299bfeee7443.js",
       "component---src-templates-menu-single-js-feb875c9299bfeee7443.js.map"
     ],
-    "path---menu-17-12-3-strawberry-daiquiri": [
-      "path---menu-17-12-3-strawberry-daiquiri-509989ca2263d643091a.js",
-      "path---menu-17-12-3-strawberry-daiquiri-509989ca2263d643091a.js.map"
-    ],
-    "path---events-17-12-3-night-of-latina-dancing": [
-      "path---events-17-12-3-night-of-latina-dancing-f955b860bf2a35b58b4d.js",
-      "path---events-17-12-3-night-of-latina-dancing-f955b860bf2a35b58b4d.js.map"
+    "path---menu-shrimp": [
+      "path---menu-shrimp-b8ad72f937e0e1aaec2d.js",
+      "path---menu-shrimp-b8ad72f937e0e1aaec2d.js.map"
     ],
     "path---404": [
       "path---404-1db04e5021b40904aca6.js",
       "path---404-1db04e5021b40904aca6.js.map"
     ],
-    "path---menu-17-12-3-shrimps-with-vegetables": [
-      "path---menu-17-12-3-shrimps-with-vegetables-b9e8b4049dc66e23e204.js",
-      "path---menu-17-12-3-shrimps-with-vegetables-b9e8b4049dc66e23e204.js.map"
+    "path---events-18-03-17-saint-patricks-day": [
+      "path---events-18-03-17-saint-patricks-day-2de8f132f1e9b33e10d6.js",
+      "path---events-18-03-17-saint-patricks-day-2de8f132f1e9b33e10d6.js.map"
     ]
   }
 }
