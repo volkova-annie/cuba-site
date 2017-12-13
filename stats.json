@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---menu": [
-      "path---menu-b729a8cddc64f56196d4.js",
-      "path---menu-b729a8cddc64f56196d4.js.map"
+      "path---menu-3e7020c56eaa08d34224.js",
+      "path---menu-3e7020c56eaa08d34224.js.map"
     ],
     "component---src-templates-menu-index-js": [
       "component---src-templates-menu-index-js-4a41b3423aa8a8a2dd93.js",
@@ -85,8 +85,8 @@
       "path---events-17-12-3-christmas-49acdaa80babd8d74937.js.map"
     ],
     "path---index": [
-      "path---index-11645eedb9e5464efc1c.js",
-      "path---index-11645eedb9e5464efc1c.js.map"
+      "path---index-98a2666be4cf4ad63cc3.js",
+      "path---index-98a2666be4cf4ad63cc3.js.map"
     ],
     "path---menu-17-12-3-pumpkin-soup": [
       "path---menu-17-12-3-pumpkin-soup-764834b37aae14213a45.js",
@@ -163,18 +163,14 @@
       "path---events-17-12-3-night-of-the-cuban-rum-053c6d427a645073c8dc.js.map"
     ],
     "app": [
-      "app-742d2cd36c0bb9514a5e.js",
+      "app-8de53dff0481798c5dc5.js",
       "build-js-styles.css",
-      "app-742d2cd36c0bb9514a5e.js.map",
+      "app-8de53dff0481798c5dc5.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-menu-single-js": [
       "component---src-templates-menu-single-js-feb875c9299bfeee7443.js",
       "component---src-templates-menu-single-js-feb875c9299bfeee7443.js.map"
-    ],
-    "path---menu-17-12-3-strawberry-daiquiri": [
-      "path---menu-17-12-3-strawberry-daiquiri-509989ca2263d643091a.js",
-      "path---menu-17-12-3-strawberry-daiquiri-509989ca2263d643091a.js.map"
     ],
     "path---events-17-12-3-night-of-latina-dancing": [
       "path---events-17-12-3-night-of-latina-dancing-f955b860bf2a35b58b4d.js",
