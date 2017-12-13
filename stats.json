@@ -13,8 +13,8 @@
       "path---events-17-12-31-new-year-3beca3121febf2d3e592.js.map"
     ],
     "path---menu": [
-      "path---menu-88440c6cd037b4e654e9.js",
-      "path---menu-88440c6cd037b4e654e9.js.map"
+      "path---menu-6fb20d5d75b9af05aa63.js",
+      "path---menu-6fb20d5d75b9af05aa63.js.map"
     ],
     "path---events-18-05-24-night-of-the-cuban-rum": [
       "path---events-18-05-24-night-of-the-cuban-rum-4ff3bb4f7239958cbefb.js",
@@ -23,10 +23,6 @@
     "component---src-templates-menu-index-js": [
       "component---src-templates-menu-index-js-4a41b3423aa8a8a2dd93.js",
       "component---src-templates-menu-index-js-4a41b3423aa8a8a2dd93.js.map"
-    ],
-    "path---menu-strawberry-daiquiri": [
-      "path---menu-strawberry-daiquiri-f52862b70d80dfe75a6e.js",
-      "path---menu-strawberry-daiquiri-f52862b70d80dfe75a6e.js.map"
     ],
     "path---events-18-01-07-christmas": [
       "path---events-18-01-07-christmas-f026390aaaba59cc40ec.js",
@@ -109,8 +105,8 @@
       "path---menu-beet-n-berry-smoothie-b71bea4a6ff25debd9d5.js.map"
     ],
     "path---index": [
-      "path---index-cfe5989059bc38230439.js",
-      "path---index-cfe5989059bc38230439.js.map"
+      "path---index-ee7eb45d5f72a847ef80.js",
+      "path---index-ee7eb45d5f72a847ef80.js.map"
     ],
     "path---menu-ham-la-cuba": [
       "path---menu-ham-la-cuba-3dbb366f5ff174a02cb1.js",
@@ -167,9 +163,9 @@
       "path---menu-burger-5dec6c64642af7235e8d.js.map"
     ],
     "app": [
-      "app-8e591260fa7cf6a8d3df.js",
+      "app-1db9c79827bf49b25ac7.js",
       "build-js-styles.css",
-      "app-8e591260fa7cf6a8d3df.js.map",
+      "app-1db9c79827bf49b25ac7.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-menu-single-js": [
