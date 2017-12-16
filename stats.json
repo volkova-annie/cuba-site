@@ -1,136 +1,192 @@
 {
   "assetsByChunkName": {
-    "path---podcast-6": [
-      "path---podcast-6-9667e3ac6cccd228a6f4.js",
-      "path---podcast-6-9667e3ac6cccd228a6f4.js.map"
+    "path---events-18-01-25-salsa-night": [
+      "path---events-18-01-25-salsa-night-d50870ac9998b556582c.js",
+      "path---events-18-01-25-salsa-night-d50870ac9998b556582c.js.map"
     ],
-    "path---podcast-1": [
-      "path---podcast-1-f359566cba8eaf1bd292.js",
-      "path---podcast-1-f359566cba8eaf1bd292.js.map"
+    "path---events-18-04-19-cuban-dancing": [
+      "path---events-18-04-19-cuban-dancing-2a063d8cd85ec5217a3b.js",
+      "path---events-18-04-19-cuban-dancing-2a063d8cd85ec5217a3b.js.map"
     ],
-    "component---src-pages-index-js": [
-      "component---src-pages-index-js-eb8548821581fca42529.js",
-      "component---src-pages-index-js-eb8548821581fca42529.js.map"
+    "path---events-17-12-31-new-year": [
+      "path---events-17-12-31-new-year-3beca3121febf2d3e592.js",
+      "path---events-17-12-31-new-year-3beca3121febf2d3e592.js.map"
     ],
-    "path---podcast-17": [
-      "path---podcast-17-a2043b4e2fba6464e624.js",
-      "path---podcast-17-a2043b4e2fba6464e624.js.map"
+    "path---menu": [
+      "path---menu-88440c6cd037b4e654e9.js",
+      "path---menu-88440c6cd037b4e654e9.js.map"
     ],
-    "path---podcast-7": [
-      "path---podcast-7-850f5edc578a8eb4fc4e.js",
-      "path---podcast-7-850f5edc578a8eb4fc4e.js.map"
+    "path---events-18-05-24-night-of-the-cuban-rum": [
+      "path---events-18-05-24-night-of-the-cuban-rum-4ff3bb4f7239958cbefb.js",
+      "path---events-18-05-24-night-of-the-cuban-rum-4ff3bb4f7239958cbefb.js.map"
+    ],
+    "component---src-templates-menu-index-js": [
+      "component---src-templates-menu-index-js-4a41b3423aa8a8a2dd93.js",
+      "component---src-templates-menu-index-js-4a41b3423aa8a8a2dd93.js.map"
+    ],
+    "path---menu-strawberry-daiquiri": [
+      "path---menu-strawberry-daiquiri-f52862b70d80dfe75a6e.js",
+      "path---menu-strawberry-daiquiri-f52862b70d80dfe75a6e.js.map"
+    ],
+    "path---events-18-01-07-christmas": [
+      "path---events-18-01-07-christmas-f026390aaaba59cc40ec.js",
+      "path---events-18-01-07-christmas-f026390aaaba59cc40ec.js.map"
+    ],
+    "path---menu-sandwich-with-ham": [
+      "path---menu-sandwich-with-ham-8a09dfda1fdd9cb73718.js",
+      "path---menu-sandwich-with-ham-8a09dfda1fdd9cb73718.js.map"
+    ],
+    "path---events": [
+      "path---events-3c2f04ca0eec7fb4759d.js",
+      "path---events-3c2f04ca0eec7fb4759d.js.map"
+    ],
+    "path---contacts": [
+      "path---contacts-1db04e5021b40904aca6.js",
+      "path---contacts-1db04e5021b40904aca6.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---podcast-8": [
-      "path---podcast-8-a89a8a1e5d0bc8b6a6d8.js",
-      "path---podcast-8-a89a8a1e5d0bc8b6a6d8.js.map"
+    "path---events-18-02-14-st-valentines-day": [
+      "path---events-18-02-14-st-valentines-day-84bdb294f56438a8cda0.js",
+      "path---events-18-02-14-st-valentines-day-84bdb294f56438a8cda0.js.map"
     ],
-    "path---podcast-4": [
-      "path---podcast-4-9689d3a651b0120a20c7.js",
-      "path---podcast-4-9689d3a651b0120a20c7.js.map"
+    "component---src-templates-events-index-js": [
+      "component---src-templates-events-index-js-437845d5a06ed34e9265.js",
+      "component---src-templates-events-index-js-437845d5a06ed34e9265.js.map"
     ],
-    "path---podcast-21": [
-      "path---podcast-21-1d4c8832fd45d56fba7d.js",
-      "path---podcast-21-1d4c8832fd45d56fba7d.js.map"
+    "component---src-templates-index-js": [
+      "component---src-templates-index-js-5c974d917d2b3595547a.js",
+      "component---src-templates-index-js-5c974d917d2b3595547a.js.map"
     ],
-    "path---podcast-20": [
-      "path---podcast-20-aac467a943bb280a7704.js",
-      "path---podcast-20-aac467a943bb280a7704.js.map"
+    "path---events-18-07-07-night-of-latina-dancing": [
+      "path---events-18-07-07-night-of-latina-dancing-9f7339a44d01214cf1d1.js",
+      "path---events-18-07-07-night-of-latina-dancing-9f7339a44d01214cf1d1.js.map"
     ],
-    "path---podcast-16": [
-      "path---podcast-16-1bd4aa1fd5813bf427c1.js",
-      "path---podcast-16-1bd4aa1fd5813bf427c1.js.map"
-    ],
-    "path---podcast-2": [
-      "path---podcast-2-92e9653bc67eacdb594f.js",
-      "path---podcast-2-92e9653bc67eacdb594f.js.map"
+    "path---menu-pumpkin-soup": [
+      "path---menu-pumpkin-soup-3f23ecda01568ea4f42b.js",
+      "path---menu-pumpkin-soup-3f23ecda01568ea4f42b.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-ec65532783c23334889b.js",
-      "component---src-layouts-index-js-ec65532783c23334889b.js.map"
+      "component---src-layouts-index-js-510c3250706e4515b8aa.js",
+      "component---src-layouts-index-js-510c3250706e4515b8aa.js.map"
     ],
-    "path---podcast-9": [
-      "path---podcast-9-3b2c889d72f38eed7013.js",
-      "path---podcast-9-3b2c889d72f38eed7013.js.map"
+    "path---menu-breakfast": [
+      "path---menu-breakfast-2eaa717d0cc24aba7ec8.js",
+      "path---menu-breakfast-2eaa717d0cc24aba7ec8.js.map"
     ],
-    "path---podcast-10": [
-      "path---podcast-10-a041259b82ccfbfb2b90.js",
-      "path---podcast-10-a041259b82ccfbfb2b90.js.map"
+    "path---events-18-05-01-dia-de-los-trabajadores": [
+      "path---events-18-05-01-dia-de-los-trabajadores-af79c89701450efeb0fb.js",
+      "path---events-18-05-01-dia-de-los-trabajadores-af79c89701450efeb0fb.js.map"
+    ],
+    "path---menu-cuban-meat-stew-la-caldosa-la-caldosa": [
+      "path---menu-cuban-meat-stew-la-caldosa-la-caldosa-676e10a0160d46e9c3dd.js",
+      "path---menu-cuban-meat-stew-la-caldosa-la-caldosa-676e10a0160d46e9c3dd.js.map"
+    ],
+    "component---src-templates-events-single-js": [
+      "component---src-templates-events-single-js-6a90283a84a7746f0115.js",
+      "component---src-templates-events-single-js-6a90283a84a7746f0115.js.map"
+    ],
+    "component---src-pages-contacts-js": [
+      "component---src-pages-contacts-js-c0ca3135a2fe17f35c72.js",
+      "component---src-pages-contacts-js-c0ca3135a2fe17f35c72.js.map"
+    ],
+    "path---menu-shrimps-with-vegetables": [
+      "path---menu-shrimps-with-vegetables-58c083ee46e9f82f0252.js",
+      "path---menu-shrimps-with-vegetables-58c083ee46e9f82f0252.js.map"
+    ],
+    "path---events-18-04-19-live-music-night": [
+      "path---events-18-04-19-live-music-night-3d5590f25b5a119e7638.js",
+      "path---events-18-04-19-live-music-night-3d5590f25b5a119e7638.js.map"
+    ],
+    "path---menu-burito": [
+      "path---menu-burito-b4288ca6713a665b724a.js",
+      "path---menu-burito-b4288ca6713a665b724a.js.map"
+    ],
+    "path---menu-beet-n-berry-smoothie": [
+      "path---menu-beet-n-berry-smoothie-b71bea4a6ff25debd9d5.js",
+      "path---menu-beet-n-berry-smoothie-b71bea4a6ff25debd9d5.js.map"
     ],
     "path---index": [
-      "path---index-a0e39f21c11f6a62c5ab.js",
-      "path---index-a0e39f21c11f6a62c5ab.js.map"
+      "path---index-cfe5989059bc38230439.js",
+      "path---index-cfe5989059bc38230439.js.map"
     ],
-    "path---podcast-19": [
-      "path---podcast-19-694f075b34e964970a34.js",
-      "path---podcast-19-694f075b34e964970a34.js.map"
+    "path---menu-ham-la-cuba": [
+      "path---menu-ham-la-cuba-3dbb366f5ff174a02cb1.js",
+      "path---menu-ham-la-cuba-3dbb366f5ff174a02cb1.js.map"
     ],
-    "path---podcast-18": [
-      "path---podcast-18-9167e2ffaea80f4123b2.js",
-      "path---podcast-18-9167e2ffaea80f4123b2.js.map"
+    "path---events-18-06-02-first-saturday-of-the-summer": [
+      "path---events-18-06-02-first-saturday-of-the-summer-a51aa321e3cda31c501a.js",
+      "path---events-18-06-02-first-saturday-of-the-summer-a51aa321e3cda31c501a.js.map"
+    ],
+    "path---menu-congry-or-moros": [
+      "path---menu-congry-or-moros-33e0b818562cee7b862f.js",
+      "path---menu-congry-or-moros-33e0b818562cee7b862f.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-98d33e62ecaea5947486.js",
-      "component---src-pages-404-js-98d33e62ecaea5947486.js.map"
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "path---events-18-07-26-asalto-al-cuartel-moncada-ili-dia-de-la-rebeldia-nacional": [
+      "path---events-18-07-26-asalto-al-cuartel-moncada-ili-dia-de-la-rebeldia-nacional-091d279f49705e29509a.js",
+      "path---events-18-07-26-asalto-al-cuartel-moncada-ili-dia-de-la-rebeldia-nacional-091d279f49705e29509a.js.map"
+    ],
+    "path---events-18-02-13-wednesdays-dancing": [
+      "path---events-18-02-13-wednesdays-dancing-e85ce0c0d4439953d56f.js",
+      "path---events-18-02-13-wednesdays-dancing-e85ce0c0d4439953d56f.js.map"
     ],
     "commons": [
-      "commons-e30d858b8c497d0089b6.js",
-      "commons-e30d858b8c497d0089b6.js.map"
-    ],
-    "path---podcast-14": [
-      "path---podcast-14-c01a33b8bb312a80591f.js",
-      "path---podcast-14-c01a33b8bb312a80591f.js.map"
+      "commons-1c76e1b47192014b2ca9.js",
+      "build-js-styles.css",
+      "commons-1c76e1b47192014b2ca9.js.map",
+      "build-js-styles.css.map"
     ],
     "path---404-html": [
-      "path---404-html-a0e39f21c11f6a62c5ab.js",
-      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+      "path---404-html-1db04e5021b40904aca6.js",
+      "path---404-html-1db04e5021b40904aca6.js.map"
     ],
-    "component---src-components-podcast-page-index-js": [
-      "component---src-components-podcast-page-index-js-96790fd9659017a058b3.js",
-      "component---src-components-podcast-page-index-js-96790fd9659017a058b3.js.map"
+    "path---menu-fried-pineapples": [
+      "path---menu-fried-pineapples-66409b57ea18b2820cdc.js",
+      "path---menu-fried-pineapples-66409b57ea18b2820cdc.js.map"
+    ],
+    "path---events-18-10-10-dia-de-la-independencia": [
+      "path---events-18-10-10-dia-de-la-independencia-6ead578c0e8801acd574.js",
+      "path---events-18-10-10-dia-de-la-independencia-6ead578c0e8801acd574.js.map"
+    ],
+    "path---events-18-03-08-8-of-martch": [
+      "path---events-18-03-08-8-of-martch-416f2f4fa01d0a6dbffb.js",
+      "path---events-18-03-08-8-of-martch-416f2f4fa01d0a6dbffb.js.map"
+    ],
+    "path---menu-pork-ribs": [
+      "path---menu-pork-ribs-f688d4d35d4636b889d8.js",
+      "path---menu-pork-ribs-f688d4d35d4636b889d8.js.map"
+    ],
+    "path---menu-burger": [
+      "path---menu-burger-5dec6c64642af7235e8d.js",
+      "path---menu-burger-5dec6c64642af7235e8d.js.map"
     ],
     "app": [
-      "app-b569eb3fbd6bab7074f3.js",
-      "app-b569eb3fbd6bab7074f3.js.map"
+      "app-6d24207c88be951b86db.js",
+      "build-js-styles.css",
+      "app-6d24207c88be951b86db.js.map",
+      "build-js-styles.css.map"
     ],
-    "path---podcast-3": [
-      "path---podcast-3-4edf6af6f6d93c826f20.js",
-      "path---podcast-3-4edf6af6f6d93c826f20.js.map"
+    "component---src-templates-menu-single-js": [
+      "component---src-templates-menu-single-js-754eac73d6113221d134.js",
+      "component---src-templates-menu-single-js-754eac73d6113221d134.js.map"
     ],
-    "path---podcast": [
-      "path---podcast-14925d9256fcc5a79c37.js",
-      "path---podcast-14925d9256fcc5a79c37.js.map"
-    ],
-    "path---podcast-13": [
-      "path---podcast-13-aa619ee1458a07fd2391.js",
-      "path---podcast-13-aa619ee1458a07fd2391.js.map"
-    ],
-    "path---podcast-5": [
-      "path---podcast-5-ba4bbfe3fc143ff8dde4.js",
-      "path---podcast-5-ba4bbfe3fc143ff8dde4.js.map"
+    "path---menu-shrimp": [
+      "path---menu-shrimp-b8ad72f937e0e1aaec2d.js",
+      "path---menu-shrimp-b8ad72f937e0e1aaec2d.js.map"
     ],
     "path---404": [
-      "path---404-a0e39f21c11f6a62c5ab.js",
-      "path---404-a0e39f21c11f6a62c5ab.js.map"
+      "path---404-1db04e5021b40904aca6.js",
+      "path---404-1db04e5021b40904aca6.js.map"
     ],
-    "path---podcast-15": [
-      "path---podcast-15-5bc8f1bd91abca894171.js",
-      "path---podcast-15-5bc8f1bd91abca894171.js.map"
-    ],
-    "component---src-components-podcast-js": [
-      "component---src-components-podcast-js-f63fc30d283436f582bb.js",
-      "component---src-components-podcast-js-f63fc30d283436f582bb.js.map"
-    ],
-    "path---podcast-11": [
-      "path---podcast-11-55f10b67d0b21ddf1c66.js",
-      "path---podcast-11-55f10b67d0b21ddf1c66.js.map"
-    ],
-    "path---podcast-12": [
-      "path---podcast-12-1ff6bcd8a4e73225b649.js",
-      "path---podcast-12-1ff6bcd8a4e73225b649.js.map"
+    "path---events-18-03-17-saint-patricks-day": [
+      "path---events-18-03-17-saint-patricks-day-2de8f132f1e9b33e10d6.js",
+      "path---events-18-03-17-saint-patricks-day-2de8f132f1e9b33e10d6.js.map"
     ]
   }
 }
