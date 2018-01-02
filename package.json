@@ -32,7 +32,7 @@
     "build": "rm -rf public && gatsby build",
     "develop": "gatsby develop",
     "deploy:ci": "rm -rf public && gatsby build && node ghpages.js",
-    "deploy": "rm -rf public && gatsby build && gh-pages -d public -m Updates [ci skip]",
+    "deploy": "rm -rf public && gatsby build --prefix-paths && gh-pages -d public -m Updates [ci skip]",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
     "lint": "eslint ./src & stylelint \"./src/**/*.css\"",
     "precommit": "lint-staged"
