@@ -5,10 +5,10 @@ console.info('Start deploy to gh-pages')
 
 ghpages.publish('public', {
   user: {
-    name: 'Alex Kurganov',
-    email: 'me@akurganow.ru'
+    name: 'Annie Volkova',
+    email: 'volkova.annie@gmail.com'
   },
-  repo: 'https://' + process.env.GH_TOKEN + '@github.com/Cuba28/cuba-site.git',
+  repo: 'https://' + process.env.GH_TOKEN + '@github.com/volkova-annie/cuba-site.git',
   message: 'Updates [ci skip]',
 }, () => {
   console.info('Deploy finished')
